@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ejer_1b2_2 {
-    static void main() {
+    static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Dime un numero y te digo su inversa");
         int num = sc.nextInt();

@@ -11,6 +11,7 @@ public class EJERCICIO4BOLETIN2 {
     }
 
     public static int generarAleatorio (int min , int max) {
+
         return (int) (Math.random() * (max - min + 1)) + min;
     }
 }
