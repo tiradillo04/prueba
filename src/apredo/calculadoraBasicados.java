@@ -1,3 +1,5 @@
+package apredo;
+
 public class calculadoraBasicados {
     static void main(String[] args) {
         int num1 = 27;
