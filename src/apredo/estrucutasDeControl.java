@@ -9,8 +9,8 @@ public class estrucutasDeControl {
          if(n1>n2){
              System.out.println("n1 es mayor que n2");// si lo que escribo es cierto se mostrara el resultado del IF
          } else {
-             System.out.println("n2 es mayor que n1");// si es falso se mostrara el del else , en pantalla se muestra else porque
-             // (n1>n2) es falso
+             System.out.println("n2 es mayor que n1");// si es falso se mostrara el del else , en pantalla
+             //  se muestra else porque (n1>n2) es falso
          }
     }
 
